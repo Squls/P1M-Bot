@@ -1,0 +1,26 @@
+{
+  "name": "p1m",
+  "version": "1.0.0",
+  "description": "Pi tweeting bot.",
+  "main": "p1m.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raw-bit/P1M.git"
+  },
+  "keywords": [
+    "pi",
+    "twitter"
+  ],
+  "author": "rawb!t",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raw-bit/P1M/issues"
+  },
+  "homepage": "https://github.com/raw-bit/P1M#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
