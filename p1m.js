@@ -42,4 +42,4 @@ function tweetPi() {
 }
 
 tweetPi()
-setInterval(tweetPi, 1000)
+setInterval(tweetPi, 1000 * 60 * 60)
