@@ -15,9 +15,7 @@ function tweetPi() {
     var pi = '3.14159...'
     var num = pi.charAt(pos)
     var position = p.charAt(p.length - 1)
-    console.log(position)
     var tens = p.charAt(p.length - 2)
-    console.log(tens)
     var end = null
 
     if (position == '1' && tens != '1') {
