@@ -1,5 +1,5 @@
 # P1M
-Twitter bot that tweets a position of Pi every hour. Viewable at https://twitter.com/P1IVI
+Twitter bot that tweets a position of Pi every hour.
 
 ## PHP
 
